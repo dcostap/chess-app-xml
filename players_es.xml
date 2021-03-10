@@ -1,0 +1,45 @@
+<players>
+    <player>
+        <name>Daniil Dubov</name>
+        <photo>dubov</photo>
+        <description>Daniil Dubov es un Gran Maestro Ruso y jugador de clase mundial.
+
+Su estilo de juego es muy agresivo y creativo, y muestra fantásticas capacidades de ataque en sus mejores juegos.
+</description>
+        <favorite-openings>
+            <opening played="36">Gambito de Dama Rechazado</opening>
+            <opening played="30">Defensa Siciliana</opening>
+            <opening played="23">Ataque del Rey Indio</opening>
+            <opening played="20">Apertura Inglesa</opening>
+        </favorite-openings>
+    </player>
+
+    <player>
+        <name>Bobby Fischer</name>
+        <photo>fischer</photo>
+        <description>Bobby Fischer fue un maestro del ajedrez estadounidense. Se convirtió en el Gran Maestro más joven de la historia cuando consiguió el título en 1958.
+
+Su brillante forma de jugar atrajo la atención del público Americano al ajedrez.
+</description>
+        <favorite-openings>
+            <opening played="30">Defensa Siciliana</opening>
+            <opening played="22">Rey Indio</opening>
+            <opening played="18">Caro Kann</opening>
+        </favorite-openings>
+    </player>
+
+    <player>
+        <name>Magnus Carlsen</name>
+        <photo>carlsen</photo>
+        <description>Magnus Carlsen es el actual campeón mundial del ajedrez. Para mucha gente Carlsen es el mejor de la historia, junto con Garry Kasparov y Bobby Fischer.
+
+Carlsen tenía un estilo de juego agresivo desde su infancia, sin miedo a sacrificar piezas por oportunidades de ataque.
+Su etapa final de juego es descrita como la mejor en la historia.
+</description>
+        <favorite-openings>
+            <opening played="70">Apertura de Ruy López</opening>
+            <opening played="55">Gambito de Dama Rechazado</opening>
+            <opening played="23">Juego Indio</opening>
+        </favorite-openings>
+    </player>
+</players>

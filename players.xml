@@ -3,6 +3,7 @@
         <name>Daniil Dubov</name>
         <photo>dubov</photo>
         <description>Daniil Dubov is a Russian grandmaster and world-class player.
+
 Dubov's style is very aggressive and creative, and he shows fantastic attacking abilities in his best games.
 </description>
         <favorite-openings>
@@ -18,7 +19,7 @@ Dubov's style is very aggressive and creative, and he shows fantastic attacking 
         <photo>fischer</photo>
         <description>Bobby Fischer is an American-born chess master who became the youngest grandmaster in history when he received the title in 1958.
 
-His youthful intemperance and brilliant playing drew the attention of the American public to the game of chess, particularly when he won the world championship in 1972.
+His youthful intemperance and brilliant playing drew the attention of the American public to the game of chess.
 </description>
         <favorite-openings>
             <opening played="30">Sicilian Defense</opening>
